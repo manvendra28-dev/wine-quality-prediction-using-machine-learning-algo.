@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🍷 Wine Quality Prediction Model Using Machine Learning
 
 An end-to-end, production-grade Machine Learning solution to evaluate, predict, and assure wine quality using physicochemical laboratory measurements.
@@ -132,3 +133,7 @@ Sample output:
 ### 6. Interactive Notebook
 Open `notebooks/wine_quality_analysis.ipynb` in VS Code or Jupyter to explore the interactive analysis and visualizations.
 
+=======
+# wine-quality-prediction-using-machine-learning-algo.
+[Sample 1: High-tier White Wine]   --> Prediction: High Quality (Score >= 7)   --> Confidence: 70.1%  [Sample 2: Low-tier Red Wine]   --> Prediction: Normal / Low Quality (Score &lt; 7)   --> Confidence: 0.0% ```
+>>>>>>> 95e89b0acc9ccb9611466246844c88a1a069f178
